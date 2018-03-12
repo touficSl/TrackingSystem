@@ -12,8 +12,13 @@ Database:
 SQL server
  
 # Setup
-1- Install Visual Studio 2015
-  > Open VS and click File -> Open -> Web Site... -> select the project
   
-2- Install SQL Server
-  > Add the DB 
+1- Install SQL Server
+  > Add this DB https://github.com/touficSl/TrackingSystem/blob/master/DBTrack-Diagram.png
+  
+  
+2- Install Visual Studio 2015
+  > Open VS and click File -> Open -> Web Site... -> select the project
+  > Change the connection string in web.config
+  > Click run
+  
