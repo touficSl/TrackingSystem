@@ -12,8 +12,9 @@ SQL server
 # Setup
 1- Install Visual Studio 2015
   > Open VS and click File -> Open -> Web Site... -> select the project
+  
 2- Install Sql Server
-  > add the DB 
+  > Add the DB 
   
   
   
