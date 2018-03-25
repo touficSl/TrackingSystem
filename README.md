@@ -1,8 +1,10 @@
 # Introduction
 
+## Objective
+
 TrackingSystem is a "Request Management System", is a portal website for the Radiation Safety Services that manages requests of clients by different users depending on their roles using an approval process. 
 
-**It includes these details:** 
+## About Project
 
 -	The Front-end to allow users to use the website, register and order different types of requests.
 -	The Back-end for each admin, to allow them to confirm the new registered users so they can order the requests and then accept requests for transfers them to the next admin.
