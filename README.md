@@ -44,5 +44,6 @@ TrackingSystem is a "Request Management System", is a portal website for the Rad
   - Open VS and click File -> Click Open -> Click Web Site... -> Select the project
   - Change the connection string in web.config
   - Click run
-  - You can check my youtube channel for more details on how to open and run the project: https://www.youtube.com/watch?v=hVB9ufdNPTk
+  
+3- You can check my youtube channel playlist for more details on the project: https://www.youtube.com/watch?v=hVB9ufdNPTk&list=PLzk4y0RlbNFZYXXRw8rFiGrPfu-KNb9f5
 
