@@ -49,5 +49,4 @@ TrackingSystem is a "Request Management System", is a portal website for the Rad
 
 ## C. Screen Description  
 
-- You can find screen description here https://docs.google.com/document/d/1gUasDbgdS5ruZ_ztSuJ__GHoTajZy19RzJKvY37n7VI/edit?usp=sharing
-
+- You can find screen description with UML here https://docs.google.com/document/d/1wgwNnbRb66gsuapwkfu9eB0808CeSeFtHfW6kYw8UVY/edit?usp=sharing
