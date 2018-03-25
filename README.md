@@ -38,7 +38,7 @@ TrackingSystem is a "Request Management System", is a portal website for the Rad
 ## B. Setup
 
 1- Install SQL Server
-  - Add this DB https://github.com/touficSl/TrackingSystem/blob/master/DBTrack-Diagram.png
+  - You can check the Database here https://github.com/touficSl/TrackingSystem/blob/master/DBTrack-Diagram.png
   
 2- Install Visual Studio (VS) 2015
   - Open VS and click File -> Click Open -> Click Web Site... -> Select the project
