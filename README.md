@@ -4,8 +4,8 @@ TrackingSystem is a "Request Management System", is a portal website for the Rad
 
 **It includes these details:** 
 
--	Front-end to allow users to use the website, register and order different types of requests.
--	Back-end for each admin, to allow them to confirm the new registered users so they can order the requests and they accepts requests for transfers them to the next admin.
+-	The Front-end to allow users to use the website, register and order different types of requests.
+-	The Back-end for each admin, to allow them to confirm the new registered users so they can order the requests and then accept requests for transfers them to the next admin.
 
 # Work Flow Example
 - let's say we have a customer, a director, and a technician. 
