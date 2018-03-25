@@ -2,7 +2,7 @@
 
 ## Objective
 
-TrackingSystem is a "Request Management System", is a portal website for the Radiation Safety Services that manages requests of clients by different users depending on their roles using an approval process. 
+- TrackingSystem is a "Request Management System", is a portal website for the Radiation Safety Services that manages requests of clients by different users depending on their roles using an approval process. 
 
 ## About Project
 
